@@ -1,0 +1,145 @@
+body
+{
+    font-family: sans-serif;
+}
+
+.title /* title of page */
+{
+    text-align: left;
+    float: left;
+}
+
+.info /* date and location of event */
+{
+    text-align: left;
+    float: right;
+    color: #abd3db;
+}
+
+.button_container
+{
+    float: right;
+}
+
+.buttons
+{
+    float: left;
+    margin-left: 15px;
+}
+
+.end_top
+{
+    clear: both;
+}
+
+.under_top
+{
+    background-color: #b1e3df;
+    text-align: center;
+    color: #5071a6;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+
+.under_top_text
+{
+
+}
+
+.intro_big, .intro_small /* introduction text header */
+{
+    clear: both;
+    text-align: center;
+
+}
+
+.intro_big
+{
+    color: #abd3db;
+}
+
+.button /* sign up */
+{
+    float: center;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    border: solid;
+    width: 200px;
+    margin: 0 auto;
+    /*display: inline;*/
+}
+
+.top, .bottom /* top and bottom of page */
+{
+    background-color: #1e3f5a;
+    color: white;
+    padding: 30px;
+    clear: both;
+}
+
+.middle
+{
+    color: #5071a6;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.middle_participants
+{
+    color: #5071a6;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.bottom
+{
+    text-align: center;
+}
+
+.bottom_buttons
+{
+    display: inline-block;
+    margin: 30px;
+    border: none;
+}
+
+.container /* middle of page */
+{
+    padding: 15px;
+    /*margin: auto;*/
+    text-align: left;
+    height: 300px;
+}
+
+.debates, .participants, .location, .schedule
+{
+    float: left;
+    padding: 13.5px;
+}
+
+.img
+{
+    width: 250px;
+    height: 176px;
+}
+
+.name
+{
+    float: left;
+}
+
+.portrait
+{
+    width: 200px;
+    float: right;
+}
+
+.text
+{
+    text-align: left;
+    /*clear: both;*/
+    /*float: left;*/
+}
